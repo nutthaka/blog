@@ -3,8 +3,8 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'http:///nutthaka.github.io/blog/'
-  relativeLinks: 'http://nutthaka.github.io/blog/links.jsonp'
+  siteurl: 'https:///nutthaka.github.io/blog/'
+  relativeLinks: 'https://nutthaka.github.io/blog/links.jsonp'
   media: 'media'
   metadata:
     _posts:
